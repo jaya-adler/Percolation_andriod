@@ -1,0 +1,3 @@
+include ':algs4'
+include ':app'
+rootProject.name = "Percolation"
